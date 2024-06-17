@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TASKPLANNERLOGIN"
+rootProject.name = "Listadetarefass"
 include(":app")
  
